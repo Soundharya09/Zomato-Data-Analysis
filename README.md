@@ -29,6 +29,7 @@ Derived new columns for qualitative interpretation:
 
 ## Exploratory Data Analysis (EDA):
 The EDA section uses the cleaned data to deeply examine trends and distributions across various dimensions:
+
 a. General Distribution:
 - Frequency of restaurants by *listed_in(type)* to identify the most common restaurant categories (Dining is dominant).
 - Distribution of *approx_cost* to find the most common price points.
