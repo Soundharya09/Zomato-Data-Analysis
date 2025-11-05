@@ -6,15 +6,15 @@ and cost—to identify trends that can inform business strategy and provide a co
 
 ## Dataset:
 File Used: Zomato data .csv
-The dataset represents a collection of restaurant records with attributes vital for market analysis:
-- name,
-- online_order,
-- book_table,
-- rate,
-- votes,
-- approx_cost,
-- listed_in(type)
-It provides a robust foundation for studying service trends, cost distributions, and customer engagement metrics (ratings and votes).
+- The dataset represents a collection of restaurant records with attributes vital for market analysis:
+   - name,
+   - online_order,
+   - book_table,
+   - rate,
+   - votes,
+   - approx_cost,
+   - listed_in(type)
+- It provides a robust foundation for studying service trends, cost distributions, and customer engagement metrics (ratings and votes).
 
 ## Data Cleaning and Preprocessing:
 - Loaded the dataset into a DataFrame.
